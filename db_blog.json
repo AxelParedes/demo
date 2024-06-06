@@ -1,0 +1,25 @@
+{
+    "blog": [
+        {
+            "id": 1,
+            "nombre": "Cabaña en el Bosque",
+            "propietario": "Juan Pérez",
+            "telefono": "+1 555 123 4567",
+            "email": "juan.perez@example.com",
+            "precio": 89.99,
+            "direccion": "123 Calle Principal, Ciudad Ejemplo",
+            "imagen": "https://i.pinimg.com/originals/3d/f0/33/3df033ff17247314f4527ae55ff891d5.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Villa Tropical",
+            "propietario": "María García",
+            "telefono": "+1 555 987 6543",
+            "email": "maria.garcia@example.com",
+            "precio": 120.5,
+            "direccion": "456 Avenida Central, Pueblo Ejemplo",
+            "imagen": "https://blenderartists.org/uploads/default/original/4X/3/1/a/31addd78d022024d9cb12dc462f903d092cf046c.jpeg"
+        },
+        
+    ]
+}
